@@ -1,1 +1,1 @@
-Implement an algorith to check if a string has all unique characters
+Implement an algorithm to check if an english has only unique caracters
