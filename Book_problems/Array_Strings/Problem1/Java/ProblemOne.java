@@ -13,7 +13,7 @@ public class ProblemOne {
 	}
 	
 	
-	private boolean isUnique(String word) {
+	private static boolean isUnique(String word) {
 		boolean[] characters = new boolean[256];
 		int wordLength = word.length();
 		int asciiValue;
