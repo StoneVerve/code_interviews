@@ -1,1 +1,1 @@
-Invert a string without using any addional strcutures
+Implement a function void reverse(char* str) in C++ which reverses a null-terminated string
