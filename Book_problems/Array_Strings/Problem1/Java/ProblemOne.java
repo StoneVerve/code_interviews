@@ -1,4 +1,4 @@
-Public Class ProblemOne {
+public class ProblemOne {
 	
 	// The string is in ASCII
 	public static void main(String[] args) {
