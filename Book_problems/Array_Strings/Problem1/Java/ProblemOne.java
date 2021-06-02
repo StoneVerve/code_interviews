@@ -14,7 +14,7 @@ public class ProblemOne {
 	
 	
 	private boolean isUnique(String word) {
-		boolean[] characters = boolean[256];
+		boolean[] characters = new boolean[256];
 		int wordLength = word.length();
 		int asciiValue;
 		for(int i = 0; i < wordLength; i++) {
